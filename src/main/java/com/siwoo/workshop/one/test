@@ -1,0 +1,68 @@
+"C:\Program Files\Java\jdk1.8.0_161\bin\java.exe" -ea -Didea.test.cyclic.buffer.size=1048576 "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2018.2.2\lib\idea_rt.jar=51755:C:\Program Files\JetBrains\IntelliJ IDEA 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\JetBrains\IntelliJ IDEA 2018.2.2\lib\idea_rt.jar;C:\Program Files\JetBrains\IntelliJ IDEA 2018.2.2\plugins\junit\lib\junit-rt.jar;C:\Program Files\JetBrains\IntelliJ IDEA 2018.2.2\plugins\junit\lib\junit5-rt.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar;C:\Users\Siwoo\IdeaProjects\workshop1\target\classes;C:\Users\Siwoo\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Siwoo\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar" com.intellij.rt.execution.junit.JUnitStarter -ideVersion5 -junit4 com.siwoo.workshop.one.SongProgram,test
+first day of Christmas my true love gave to me,
+A partridge in a pear tree.
+second day of Christmas my true love gave to me,
+Two turtle doves and a partridge in a pear tree.
+fourth day of Christ
+third day of Christmas my true love gave to me, five golden rings
+Four calling birds, three french hens,
+Two turtle doves and a partridge in a pear tree
+ninth day of Christmas, (on the eighth day of Christmas)
+My true love gave to me (my true love gave to me)
+Nine ladies dancing (eight maids a milking)
+Eight ladies dancing (seven maids a milking)
+Seven ladies dancing (six maids a milking)
+Six ladies dancing (five)
+Better not shout, you better not cry,
+You better not in a pear tree
+ninth, no!
+eighth, come on!
+seventh day of Christmas (deck the halls)
+My true love gave to me (with boughs of holly)
+Seven swans a swimming (here we come a wassailing)
+Six geese a laying (among the leaves so)
+Five golden rings (Fa-la-la-la-la)
+Four calling birds
+Three french hens
+Two turtle doves (here we come a wassailing)
+The boar's head in hand bear I (among the leaves so green)
+Bedeck'd with bays
+And partridge in a pear tree
+eleventh day of Christmas my true love gave to me
+Eleven pipers piping (ding)
+Ten lords a leaping (dong)
+Nine ladies dancing (ding)
+Eight maids a milking (dong)
+Seven swans a swimming (ding)
+Six geese a laying (dong)
+Five golden rings
+Four calling birds
+Three french hens
+Two turtle doves
+And Rudolph the red nosed reindeer!
+twelfth day of Christmas my true love gave to me
+I have a little dreidel, I made it out of clay,
+And when it's dry and ready, my dreidel I shall play
+Oh dreidel dreidel dreidel (hey, 12 days of Christmas)
+(what? 8 days of Hanukkah. It's a Christmas medley)
+twelfth day of Christmas my true love gave to me
+Do do do do doot do (do de do de do de do de do de)
+Do do do do doot do (do de do de do de do de do de)
+twelfth day my true love gave to me
+Twelve drummers drumming like Olympus above the Serengeti
+Ba ba ba ba ba ba ba oh
+Eleven pipers piping, ten lords a leaping (Ba ba ba ba ba ba ba oh)
+Nine ladies dancing they were dancing for me
+Eight maids a milking they were milking just for me
+I had Christmas down in Africa
+I had Christmas down in Africa
+I had Christmas down in Africa (five golden rings)
+I had Christmas down in Africa (five golden rings)
+I had Christmas down in Africa (five golden rings)
+Couldn't take the halls into the things we never had
+Do do do do doot do (do de do de do de do de do de)
+Do do do do doot do (do de do de do de do de do de)
+Partridge in a big pear tree (do de do de do de do de do de)
+Partridge in a big pear tree
+
+Process finished with exit code 0
