@@ -21,17 +21,17 @@ import static junit.framework.TestCase.assertTrue;
 
 public class SongProgram {
 
-    public static final Path FILE = Paths.get("./src/main/java/com/siwoo/workshop/one/the12DaysOfChristmas");
+    public static final Path FILE2 = Paths.get("./src/main/java/com/siwoo/workshop/one/the12DaysOfChristmas2");
+    public static final Path FILE1 = Paths.get("./src/main/java/com/siwoo/workshop/one/the12DaysOfChristmas");
     private static LyricRepository lyricRepository = new FileLyricRepositoryImpl();
 
-    @Test
     public void test() {
-        lyricRepository.fetchLyrics(FILE.toFile());
+        lyricRepository.fetchLyrics(FILE1.toFile());
         lyricRepository.print();
     }
 
     static {
-        lyricRepository.fetchLyrics(FILE.toFile());
+        lyricRepository.fetchLyrics(FILE2.toFile());
     }
 
     public enum RESULT{

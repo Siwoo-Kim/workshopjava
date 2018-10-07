@@ -18,9 +18,12 @@ public class Lyric implements Comparable<Lyric>{
     public enum Sequence {
         TWELFTH(12, null),
         ELEVENTH(11, TWELFTH),
-        NINTH(9, ELEVENTH),
+        TENTH(10, ELEVENTH),
+        NINTH(9, TENTH),
         EIGHTH(8, NINTH),
         SEVENTH(7, EIGHTH),
+        SIXTH(6, SEVENTH),
+        FIFTH(5, SIXTH),
         FOURTH(4, SEVENTH),
         THIRD(3, FOURTH),
         SECOND(2, THIRD),
