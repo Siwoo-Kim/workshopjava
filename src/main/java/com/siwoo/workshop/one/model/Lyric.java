@@ -30,8 +30,8 @@ public class Lyric implements Comparable<Lyric>{
         FIRST(1, SECOND);
 
         final Sequence nextSequence;
-
         final int intValue;
+
         Sequence(int level, Sequence nextSequence) {
             this.intValue = level;
             this.nextSequence = nextSequence;
@@ -53,7 +53,9 @@ public class Lyric implements Comparable<Lyric>{
         public String getDay() {
             return toString() + " DAY";
         }
+
     }
+
     public String getDay() {
         return day;
     }

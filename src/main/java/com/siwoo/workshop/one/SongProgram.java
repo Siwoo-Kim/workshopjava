@@ -21,6 +21,7 @@ import static junit.framework.TestCase.assertTrue;
 
 public class SongProgram {
 
+    // Supports multiple files with different lyrics
     public static final Path FILE2 = Paths.get("./src/main/java/com/siwoo/workshop/one/the12DaysOfChristmas2");
     public static final Path FILE1 = Paths.get("./src/main/java/com/siwoo/workshop/one/the12DaysOfChristmas");
     private static LyricRepository lyricRepository = new FileLyricRepositoryImpl();
