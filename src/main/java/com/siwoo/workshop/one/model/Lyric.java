@@ -4,10 +4,9 @@ import com.siwoo.workshop.one.SongProgram;
 
 import java.util.Objects;
 
+
 /**
- * Created by sm123tt@gmail.com on 2018-10-07
- * Project : workshop1
- * Github : http://github.com/Siwoo-Kim
+ * Created by Siwoo Kim on 2018-10-08
  */
 
 public class Lyric implements Comparable<Lyric>{

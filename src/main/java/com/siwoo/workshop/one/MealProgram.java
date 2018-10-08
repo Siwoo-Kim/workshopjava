@@ -5,10 +5,9 @@ import com.siwoo.workshop.one.model.Meal;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+
 /**
- * Created by sm123tt@gmail.com on 2018-10-07
- * Project : workshop1
- * Github : http://github.com/Siwoo-Kim
+ * Created by Siwoo Kim on 2018-10-08
  */
 
 public class MealProgram {

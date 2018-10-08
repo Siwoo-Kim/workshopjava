@@ -4,19 +4,16 @@ import com.siwoo.workshop.one.model.Lyric;
 import com.siwoo.workshop.one.repository.FileLyricRepositoryImpl;
 import com.siwoo.workshop.one.repository.LyricRepository;
 import org.junit.Test;
-
 import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.*;
-
 import static junit.framework.TestCase.assertTrue;
 
+
 /**
- * Created by sm123tt@gmail.com on 2018-10-07
- * Project : workshop1
- * Github : http://github.com/Siwoo-Kim
+ * Created by Siwoo Kim on 2018-10-08
  */
 
 public class SongProgram {
